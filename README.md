@@ -1,5 +1,8 @@
 # TinderPolitico
 Aplicativo para votar em projetos de Lei
+
+Integrantes Matheus Davi, Igor do Nascimento Alves, Alexandre Japanês e Augusto Corolla.
+
 Ideias da Sala:
 
 1 - Dia da votação.
